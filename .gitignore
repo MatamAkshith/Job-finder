@@ -1,0 +1,15 @@
+﻿node_modules/
+dist/
+.vite/
+coverage/
+*.log
+.env
+.env.*
+.vscode/
+.DS_Store
+.pnpm-store/
+.npm/
+.vercel/
+.netlify/
+.cache/
+.tmp/
